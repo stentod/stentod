@@ -14,7 +14,7 @@ I’m especially drawn to backend engineering because I’m a numbers-driven thi
 ### 🌱 Sprout — Personal Finance & Budget Tracker  
 **Stack:** Python, Flask, PostgreSQL, Raw SQL, Vanilla JavaScript, HTML, CSS  
 **Live App:** (https://mysprout.app/) 
-**Source Code:** [Sprout GitHub Repo]
+**Source Code:** (https://github.com/stentod/sprout)
 
 Sprout is a fully deployed finance and budget tracking application designed to help users manually log expenses, categorize spending, and track their financial habits.  
 It features a Flask REST API backend with session-based authentication, a PostgreSQL database using parameterized SQL queries, and a clean vanilla JS frontend.  
