@@ -1,3 +1,11 @@
+### 🔗 Quick Links
+
+- 🌱 **My Sprout :** (https://mysprout.app/) 
+- 💻 **Sprout GitHub Repo:** (https://github.com/stentod/sprout)
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/derek-stento-5b0319107
+- 📧 **Email:** stentod@gmail.com
+
+
 # 👋 Hi, I'm Derek Stento
 
 I’m a backend-focused Python developer who enjoys building practical, data-driven applications. For my main portfolio project, I created **Sprout**, a fully deployed finance tracker built with Flask, PostgreSQL, raw SQL queries, and a vanilla JS frontend. I chose this project because managing finances has always come naturally to me, and I wanted to turn that real-life skill into a working product.
